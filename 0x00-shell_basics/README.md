@@ -1,4 +1,4 @@
-#Detailed description of each task
+# Detailed of all shell basics task
 
 Task 0 - A shell scipt that prints the Current Woring Directory.
 
