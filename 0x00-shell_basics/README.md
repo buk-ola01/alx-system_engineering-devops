@@ -1,3 +1,5 @@
+#Detailed description of each task
+
 Task 0 - A shell scipt that prints the Current Woring Directory.
 
 Task 1 - A shell script that displays the contents list of your current directory.
